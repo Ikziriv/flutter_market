@@ -1,0 +1,4 @@
+#Tue Nov 27 16:58:39 ICT 2018
+base.0=D\:\\\#ANAGATA\\\#PROEJCT\\PR_1\\log_res_lupas\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
